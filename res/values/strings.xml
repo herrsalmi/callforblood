@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">callforblood</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_tittle">Call For Blood</string>
+    <string name="email">Adresse Email</string>
+    <string name="password">mot de passe</string>
+    <string name="connect">Se connecter</string>
+	<string name="signin">S\'enregistrer</string>
+	<string name="or">Ou</string>
+	<string name="resetpassword">mot de passe oublié ?</string>
+	<string name="wait">Veuillez patienter</string>
+	<string name="firstname">Nom</string>
+	<string name="lastname">Prénom</string>
+	<string name="phone">Numéro de Tél</string>
+	<string name="repassword">re-saisir mot de passe</string>
+	<string name="personeldata">Informations Personnelles</string>
+	<string name="accountdata">Compte :</string>
+	<string name="submit">Valider</string>
+</resources>
